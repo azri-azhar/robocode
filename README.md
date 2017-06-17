@@ -4,4 +4,4 @@ Sandbox is a personal workspace to try out new ideas and store reusable Java cod
 # What's Available?
 * SimpleRobot
 
-  A simple implementation of Robocode robot, based on the information gathered in RoboWiki and http://mark.random-article.com/weber/java/robocode/. Robocode is a programming tank game (http://robocode.sourceforge.net/).
+  A simple implementation of Robocode robot, based on the information gathered from RoboWiki and http://mark.random-article.com/weber/java/robocode/. Robocode is a programming tank game (http://robocode.sourceforge.net/). The generated jar file from the Maven build can be dropped directly to the Robocode folder.
